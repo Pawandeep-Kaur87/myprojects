@@ -1,0 +1,22 @@
+body{
+    text-align: center; 
+    background-image: url(RainbowDesktopBackground.png);
+      background-size: cover;
+    border-style: solid;
+    border-color:cornflowerblue;
+}
+
+h2{
+    font-size: x large;
+}
+
+button{ 
+    font-size: larger;
+    font-family: cursive;
+    
+    font-style:italic;
+    
+    
+}
+
+    
